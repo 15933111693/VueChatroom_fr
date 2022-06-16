@@ -1,0 +1,17 @@
+$bg_color: linear-gradient(-90deg, #29bdd9 0%,#276ace 100%);
+$login_text: rgb(216, 255, 241);
+$text_color: white;
+
+.bg_color {
+  background-image: $bg_color !important;
+}
+.txt_color {
+  color: $text_color !important;
+}
+.tranp_bg {
+  background: transparent !important;
+}
+.full {
+  width: 100%;
+  height: 100%;
+}
